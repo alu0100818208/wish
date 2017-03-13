@@ -407,7 +407,7 @@ body {
 }
 
 .shenlong {
-  animation:aparicionShenLong 3s linear;
+  animation:aparicionShenLong 3s linear forwards;
   opacity:1;
 }
 
