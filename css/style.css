@@ -393,15 +393,15 @@ body {
 
 @keyframes aparicionShenLong {
   0% {
-    background-image:url(http://img03.deviantart.net/c86a/i/2013/206/4/c/shenlong_by_xkyrillx-d6f6bdd.png);
+    background-image:url(img/shenlong.png);
     opacity:0;
   }
   75% {
-    background-image:url(http://img03.deviantart.net/c86a/i/2013/206/4/c/shenlong_by_xkyrillx-d6f6bdd.png);
+    background-image:url(img/shenlong.png);
     opacity:0;
   }
   100% {
-    background-image:url(http://img03.deviantart.net/c86a/i/2013/206/4/c/shenlong_by_xkyrillx-d6f6bdd.png);
+    background-image:url(img/shenlong.png);
     opacity:1;
   }
 }
